@@ -4,8 +4,8 @@ A Flask web app that predicts crop yields based on soil and weather parameters.
 
 ## Live Demo
 
-https://agromindai.onrender.com  <!-- Replace with your actual Render URL after deployment -->
-
+**Render deployment**: https://agromindai.onrender.com *(replace after deployment)*
+**GitHub Pages demo**: https://ruchikaupuldeniya.github.io/AgroMindAI/
 ## Installation (local)
 
 ```bash
